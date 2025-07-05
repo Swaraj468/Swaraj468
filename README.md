@@ -32,6 +32,7 @@
 
 ### 💡 Hobbies
 - Exploring and experimenting with new code editors
+- Watching and playing football
 
 ---
 
