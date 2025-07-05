@@ -24,9 +24,10 @@
 ---
 
 ### 🎯 Goals (Next 6 Months)
-- 🚀 Build at least **1 Flask project**
-- 🚀 Create at least **2 Node.js projects**
-- 🚀 Complete at least **4 C++ development projects**
+-  Build at least **1 Flask project**
+-  Create at least **2 Node.js projects**
+-  Complete at least **4 C++ development projects**
+-  Learn and build something in Raylib
 
 ---
 
