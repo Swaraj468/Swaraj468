@@ -1,4 +1,4 @@
-## Hi there 👋,I'm Swaraj!
+# 👋 Hi, I'm Swaraj!
 
 ## 🚀 Profile Summary
 
@@ -35,10 +35,15 @@
 
 ---
 
+## 📈 GitHub Stats
+
+![Swaraj468's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swaraj468&show_icons=true)
+
+---
+
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) <!-- Replace with your actual LinkedIn link -->
-- Email: your.email@example.com <!-- Replace with your actual email -->
+- Email: swarajbandhi0000@gmail.com
 
 ---
 
