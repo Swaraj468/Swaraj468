@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hi there 👋,I'm Swaraj!
 
-<!--
-**Swaraj468/Swaraj468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Profile Summary
 
-Here are some ideas to get you started:
+- **Current Role:** Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Programming:** C/C++, Java (basics), HTML, CSS, JavaScript
+- **Automation:** API automation (RestAssured), WebDriver (Selenium), App automation
+- **Backend:** Flask (Python), SQLite3 (DB)
+
+---
+
+### 🗂️ Projects
+
+#### Personal Finance Manager Web App _(CS50 Capstone)_
+- **Frontend:** HTML, CSS, JavaScript (minimal code, server-side validation)
+- **Backend:** Flask (Python)
+- **Database:** SQLite3
+
+#### Automation Scripts
+- Various scripts for API, web, and app automation using industry-standard tools.
+
+---
+
+### 🎯 Goals (Next 6 Months)
+- 🚀 Build at least **1 Flask project**
+- 🚀 Create at least **2 Node.js projects**
+- 🚀 Complete at least **4 C++ development projects**
+
+---
+
+### 💡 Hobbies
+- Exploring and experimenting with new code editors
+
+---
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) <!-- Replace with your actual LinkedIn link -->
+- Email: your.email@example.com <!-- Replace with your actual email -->
+
+---
+
+_Thanks for visiting my profile!_
