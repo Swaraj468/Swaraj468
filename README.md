@@ -15,7 +15,7 @@
 
 #### Personal Finance Manager Web App _(CS50 Capstone)_
 - **Frontend:** HTML, CSS, JavaScript (minimal code)
-- **Backend:** Flask (Python)(server-side validation)
+- **Backend:** Flask (Python) (server-side validation)
 - **Database:** SQLite3
 
 #### Automation Scripts
